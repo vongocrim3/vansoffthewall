@@ -1,0 +1,132 @@
+body {
+margin:0;
+}
+.oneproduct a:hover{
+    text-decoration: none;
+}
+.top{
+	height: 30px;
+	background: black;
+	padding:0;
+	margin:0;
+}
+
+.container {
+	width: 1170px;
+	margin: 0 auto;
+
+}
+
+
+.logo {
+	text-align:center;
+	
+
+	border-bottom: solid 1px #616361
+}
+
+.logo a:link, .logo a:visited {
+	color:black;
+	text-decoration:none;
+}
+
+#vans {
+	color:red;
+}
+
+.menu {
+	padding-top:10px;
+}
+
+.bnr {
+	text-align:center;
+}
+
+.sp img {
+		
+
+	float:left;
+	padding-right: 50px;
+	height: 250px;
+	width:29%;
+}
+
+.oneproduct {
+	border: solid 1px #8e8c8c;
+    text-align: center;
+	float:left;
+	width: 250px;
+    margin-right: 35px;
+    margin-bottom:15px; 
+	height:320px;
+	
+}
+
+.product {
+	padding-top: 50px;
+	height:300px;
+	
+}
+.hinh img {
+	width: 100%;
+
+}
+
+.view {
+	color: #bb8c92;
+}
+
+.info {
+	width:100%;
+	height:300px;
+}
+
+.info ul {
+	padding:0;
+	margin:0;	
+	list-style:none;
+}
+ 
+ .info ul li a:link, .info ul li a:visited {
+	 color:gray;
+	 
+ }
+ 
+ .info ul li a:hover {
+	 color:blue;
+	 
+ }
+ 
+ .follow {
+	 padding-top:30px;
+ }
+
+ .infor {
+	 float: left;
+	 padding-right: 163px;
+     padding-top: 60px;
+ }
+ .footer {
+	padding-top:30px;
+	padding-bottom:30px;
+	background-color: #dcd5d5 !important;
+
+ }
+.childfooter {
+	width:50%;
+	float:left;
+}
+
+.contact {
+	padding: 5px;
+}
+
+
+.vleft {
+	width: 33%;
+	float: left;
+}
+
+.vright {
+	
+}
